@@ -1,9 +1,9 @@
 $(call inherit-product, device/samsung/ja3gchnduos/full_ja3gchnduos.mk)
 
-# Inherit some common Lineage stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit some common Mokee stuff.
+$(call inherit-product, vendor/mk/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_ja3gchnduos
+PRODUCT_NAME := mk_ja3gchnduos
 PRODUCT_DEVICE := ja3gchnduos
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
