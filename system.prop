@@ -14,6 +14,5 @@ ro.telephony.default_network=0
 #ro.multisim.simslotcount=2
 
 # OTA
-ro.ota.manifest=https://raw.githubusercontent.com/Dracanrage/Exynos5410_Mokee_OTA/master/ja3gchnduos.xml
-ro.ota.romname=MK71.2-ja3gchnduos
-ro.ota.version=20170826
+ro.ota.manifest=https://raw.githubusercontent.com/Dracanrage/Exynos5410_Mokee_OTA/mkn-mr1/ja3gchnduos.xml
+
